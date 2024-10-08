@@ -1,0 +1,1 @@
+All this projects taken from "The Big Book of Small Python Projects" by Al Sweigart. I am using for the learning purpose and the projects can be change for that reason. 
