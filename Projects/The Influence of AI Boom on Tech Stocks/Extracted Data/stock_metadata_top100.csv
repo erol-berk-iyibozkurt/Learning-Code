@@ -1,0 +1,101 @@
+Rank,Name,Symbol,Exchange,Currency,Country
+1,NVIDIA,NVDA,NMS,USD,United States
+2,Apple,AAPL,NMS,USD,United States
+3,Microsoft,MSFT,NMS,USD,United States
+4,Amazon,AMZN,NMS,USD,United States
+5,Alphabet (Google),GOOG,NMS,USD,United States
+6,Meta Platforms (Facebook),META,NMS,USD,United States
+7,TSMC,TSM,NYQ,USD,Taiwan
+8,Tesla,TSLA,NMS,USD,United States
+9,Broadcom,AVGO,NMS,USD,United States
+10,Tencent,TCEHY,PNK,USD,China
+11,Oracle,ORCL,NYQ,USD,United States
+12,Netflix,NFLX,NMS,USD,United States
+13,Salesforce,CRM,NYQ,USD,United States
+14,Samsung,005930.KS,KSC,KRW,South Korea
+15,SAP,SAP,NYQ,USD,Germany
+16,ASML,ASML,NMS,USD,Netherlands
+17,Alibaba,BABA,NYQ,USD,China
+18,AMD,AMD,NMS,USD,United States
+19,Cisco,CSCO,NMS,USD,United States
+20,Adobe,ADBE,NMS,USD,United States
+21,ServiceNow,NOW,NYQ,USD,United States
+22,IBM,IBM,NYQ,USD,United States
+23,Texas Instruments,TXN,NMS,USD,United States
+24,QUALCOMM,QCOM,NMS,USD,United States
+25,Intuit,INTU,NMS,USD,United States
+26,Pinduoduo,PDD,NMS,USD,Ireland
+27,Booking Holdings (Booking.com),BKNG,NMS,USD,United States
+28,Uber,UBER,NYQ,USD,United States
+29,Applied Materials,AMAT,NMS,USD,United States
+30,Meituan,3690.HK,HKG,HKD,China
+31,Schneider Electric,SU.PA,PAR,EUR,France
+32,Arm Holdings,ARM,NMS,USD,United Kingdom
+33,Arista Networks,ANET,NYQ,USD,United States
+34,Palo Alto Networks,PANW,NMS,USD,United States
+35,Automatic Data Processing,ADP,NMS,USD,United States
+36,Micron Technology,MU,NMS,USD,United States
+37,Fiserv,FI,NYQ,USD,United States
+38,Palantir,PLTR,NMS,USD,United States
+39,Keyence,6861.T,JPX,JPY,Japan
+40,Sony,SONY,NYQ,USD,Japan
+41,Analog Devices,ADI,NMS,USD,United States
+42,MercadoLibre,MELI,NMS,USD,Uruguay
+43,Shopify,SHOP,NYQ,USD,Canada
+44,Intel,INTC,NMS,USD,United States
+45,Lam Research,LRCX,NMS,USD,United States
+46,SK Hynix,000660.KS,KSC,KRW,South Korea
+47,Foxconn (Hon Hai Precision Industry),2317.TW,TAI,TWD,Taiwan
+48,Dell,DELL,NYQ,USD,United States
+49,Xiaomi,XIACF,PNK,USD,China
+50,KLA,KLAC,NMS,USD,United States
+51,NextVision Stabilized Systems,NXSN.TA,TLV,ILA,Israel
+52,Airbnb,ABNB,NMS,USD,United States
+53,Equinix,EQIX,NMS,USD,United States
+54,Synopsys,SNPS,NMS,USD,United States
+55,Cadence Design Systems,CDNS,NMS,USD,United States
+56,PayPal,PYPL,NMS,USD,United States
+57,Spotify,SPOT,NYQ,USD,Luxembourg
+58,CrowdStrike,CRWD,NMS,USD,United States
+59,Marvell Technology Group,MRVL,NMS,USD,United States
+60,Tokyo Electron,8035.T,JPX,JPY,Japan
+61,DoorDash,DASH,NMS,USD,United States
+62,Constellation Software,CSU.TO,TOR,CAD,Canada
+63,MediaTek,2454.TW,TAI,TWD,Taiwan
+64,Workday,WDAY,NMS,USD,United States
+65,Autodesk,ADSK,NMS,USD,United States
+66,Jingdong Mall,JD,NMS,USD,China
+67,Fortinet,FTNT,NMS,USD,United States
+68,Nintendo,7974.T,JPX,JPY,Japan
+69,The Trade Desk,TTD,NGM,USD,United States
+70,Roper Technologies,ROP,NMS,USD,United States
+71,Atlassian,TEAM,NMS,USD,Australia
+72,NXP Semiconductors,NXPI,NMS,USD,Netherlands
+73,AppLovin,APP,NMS,USD,United States
+74,Delta Electronics (Thailand),DELTA.BK,SET,THB,Thailand
+75,Sea (Garena),SE,NYQ,USD,Singapore
+76,NetEase,NTES,NMS,USD,China
+77,FICO,FICO,NYQ,USD,United States
+78,Coinbase,COIN,NMS,USD,United States
+79,Adyen,ADYEN.AS,AMS,EUR,Netherlands
+80,Fidelity National Information Services,FIS,NYQ,USD,United States
+81,Coupang,CPNG,NYQ,USD,United States
+82,MicroStrategy,MSTR,NMS,USD,United States
+83,SMIC,0981.HK,HKG,HKD,China
+84,Dassault Systèmes,DSY.PA,PAR,EUR,France
+85,TE Connectivity,TEL,NYQ,USD,Ireland
+86,Block,SQ,NYQ,USD,United States
+87,Trip.com,TCOM,NMS,USD,Singapore
+88,Advantest,6857.T,JPX,JPY,Japan
+89,Datadog,DDOG,NMS,USD,United States
+90,Infineon,IFX.DE,GER,EUR,Germany
+91,Wolters Kluwer,WKL.AS,AMS,EUR,Netherlands
+92,Electronic Arts,EA,NMS,USD,United States
+93,Microchip Technology,MCHP,NMS,USD,United States
+94,Garmin,GRMN,NYQ,USD,Switzerland
+95,Quanta Computer,2382.TW,TAI,TWD,Taiwan
+96,Snowflake,SNOW,NYQ,USD,United States
+97,IQVIA,IQV,NYQ,USD,United States
+98,Monolithic Power Systems,MPWR,NMS,USD,United States
+99,HP,HPQ,NYQ,USD,United States
+100,Veeva Systems,VEEV,NYQ,USD,United States
