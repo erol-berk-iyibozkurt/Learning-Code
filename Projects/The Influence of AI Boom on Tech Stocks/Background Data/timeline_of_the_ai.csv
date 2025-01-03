@@ -3,8 +3,8 @@ GPT-2 Release,2019-02-14,OpenAI
 GPT-3 Introduction,2020-06-11,OpenAI
 DALL-E Announced,2021-01-05,OpenAI
 Copilot Introduced for Code Suggestions,2021-06-29,Microsoft
-ERNIE 3.0 Release,2021-12-01,Baidu
 DeepMind AlphaFold Release,2021-07-22,Google DeepMind
+ERNIE 3.0 Release,2021-12-01,Baidu
 BLOOM Model Release,2022-07-12,BigScience
 Stable Diffusion Released,2022-08-22,Stability AI
 DALL-E 2 Released,2022-07-12,OpenAI
@@ -28,6 +28,8 @@ DALL-E Used for Visual Representations of Literary Figures,2023-05-10,OpenAI
 Eleven Labs Introduces Multilingual Support,2023-05-10,Eleven Labs
 Kandinsky Applied in Generating Images from Literary Descriptions,2023-06-20,Yandex
 Grok AI Chatbot Unveiled,2023-11-04,xAI
+DeepSeek Coder Released,2023-11-02,DeepSeek
+DeepSeek LLM (67B) Launched,2023-11-29,DeepSeek
 Google Rebrands Bard as Gemini,2023-12-06,Google DeepMind
 Midjourney Version 6 Release,2023-12-22,Midjourney
 Claude 3 Release,2024-03-14,Anthropic
@@ -40,4 +42,8 @@ Meta Releases LLaMA 3.1,2024-07-23,Meta
 Midjourney Version 6.1 Release,2024-07-30,Midjourney
 Grok-2 Release,2024-08-14,xAI
 Claude 3.5 Haiku and Upgraded Sonnet Release,2024-10-22,Anthropic
+DeepSeek-V2 Released,2024-05-01,DeepSeek
+DeepSeek R1-Lite-Preview Released,2024-11-20,DeepSeek
+DeepSeek-V3 Released,2024-12-26,DeepSeek
 Grok-3 Release,2024-12-09,xAI
+o1 Model Announced,2024-09-12,OpenAI
